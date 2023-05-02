@@ -1,7 +1,7 @@
 # auth_firebase_project
 
 ## What-have?
-### 04/28/2023
+### 05/02/2023
 I created a authentication app based on the Flutter Mapp project 
 The app is working well 
 This project was a study about Firebase and it's features  
