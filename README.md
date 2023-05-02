@@ -2,9 +2,12 @@
 
 ## What-have?
 ### 05/02/2023
-I created a authentication app based on the Flutter Mapp project 
-The app is working well 
-This project was a study about Firebase and it's features  
+I created a authentication app based on the Flutter Mapp project
+
+The app is working well
+
+This project was a study about Firebase and it's features
+
 The project it's just a register, login and logout project, nothing special
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
